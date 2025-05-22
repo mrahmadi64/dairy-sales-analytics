@@ -38,11 +38,12 @@ pythonfrom src.analyzer import AdvancedDairyAnalyzer
 analyzer = AdvancedDairyAnalyzer('data/raw/dairy_dataset.csv')  
 
 # تولید گزارش  
-analyzer.generate_excel_report('reports/excel/analysis_report.xlsx')  
-📁 ساختار پروژه  
+analyzer.generate_excel_report('reports/excel/analysis_report.xlsx')    
+
+📁 ساختار پروژه    
 
 
-dairy-market-analysis/  
+dairy-market-analysis/      
 ├── data/                      # پوشه داده‌ها    
 │   ├── raw/                   # داده‌های خام  
 │   └── processed/             # داده‌های پردازش شده  
