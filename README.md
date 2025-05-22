@@ -37,9 +37,9 @@ pythonfrom src.analyzer import AdvancedDairyAnalyzer
 # ایجاد نمونه از کلاس تحلیلگر
 analyzer = AdvancedDairyAnalyzer('data/raw/dairy_dataset.csv')  
 
-# تولید گزارش
+# تولید گزارش  
 analyzer.generate_excel_report('reports/excel/analysis_report.xlsx')  
-📁 ساختار پروژه
+📁 ساختار پروژه  
 
 
 dairy-market-analysis/  
