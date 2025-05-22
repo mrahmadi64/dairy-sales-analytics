@@ -10,4 +10,27 @@ Dataset Information | اطلاعات دیتاست
 
 ساختار داده  
 فایل dairy_dataset.csv شامل ستون‌های زیر است:  
-نام ستون (انگلیسی)توضیحات   (فارسی)Locationموقعیت مزرعهTotal Land Area (acres)مساحت کل زمین به ایکرNumber of Cowsتعداد گاوهاFarm Sizeاندازه مزرعهDateتاریخProduct IDشناسه محصولProduct Nameنام محصولBrandنام برندQuantity (liters/kg)مقدار بر حسب لیتر/کیلوگرمPrice per Unitقیمت هر واحدTotal Valueارزش کلShelf Life (days)مدت ماندگاریStorage Conditionشرایط نگهداریProduction Dateتاریخ تولیدExpiration Dateتاریخ انقضاQuantity Sold (liters/kg)مقدار فروشPrice per Unit (sold)قیمت فروش هر واحدApprox. Total Revenue(INR)تقریب درآمد کلCustomer Locationموقعیت مشتریSales Channelکانال فروشQuantity in StockموجودیMinimum Stock Thresholdحداقل موجودی مجازReorder Quantityمقدار سفارش مجدد
+نام ستون (انگلیسی)	توضیحات (فارسی)
+Location	موقعیت مزرعه
+Total Land Area (acres)	مساحت کل زمین به ایکر
+Number of Cows	تعداد گاوها
+Farm Size	اندازه مزرعه
+Date	تاریخ
+Product ID	شناسه محصول
+Product Name	نام محصول
+Brand	نام برند
+Quantity (liters/kg)	مقدار بر حسب لیتر/کیلوگرم
+Price per Unit	قیمت هر واحد
+Total Value	ارزش کل
+Shelf Life (days)	مدت ماندگاری
+Storage Condition	شرایط نگهداری
+Production Date	تاریخ تولید
+Expiration Date	تاریخ انقضا
+Quantity Sold (liters/kg)	مقدار فروش
+Price per Unit (sold)	قیمت فروش هر واحد
+Approx. Total Revenue(INR)	تقریب درآمد کل
+Customer Location	موقعیت مشتری
+Sales Channel	کانال فروش
+Quantity in Stock	موجودی
+Minimum Stock Threshold	حداقل موجودی مجاز
+Reorder Quantity	مقدار سفارش مجدد
