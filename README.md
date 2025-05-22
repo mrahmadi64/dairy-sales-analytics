@@ -23,18 +23,18 @@ bash# کلون کردن مخزن
 git clone https://github.com/[username]/dairy-market-analysis  
 cd dairy-market-analysis  
 
-# ایجاد محیط مجازی
+# ایجاد محیط مجازی  
 python -m venv venv  
 source venv/bin/activate  # Linux/Mac  
-# یا
+# یا  
 venv\Scripts\activate  # Windows  
 
-# نصب وابستگی‌ها
+# نصب وابستگی‌ها  
 pip install -r requirements.txt  
-📈 نحوه استفاده
+📈 نحوه استفاده  
 pythonfrom src.analyzer import AdvancedDairyAnalyzer  
 
-# ایجاد نمونه از کلاس تحلیلگر
+# ایجاد نمونه از کلاس تحلیلگر  
 analyzer = AdvancedDairyAnalyzer('data/raw/dairy_dataset.csv')  
 
 # تولید گزارش  
