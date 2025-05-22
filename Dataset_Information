@@ -1,0 +1,13 @@
+Dataset Information | اطلاعات دیتاست  
+منبع داده  
+
+نام دیتاست: Dairy Goods Sales Dataset  
+پلتفرم: Kaggle  
+لینک: مجموعه داده در Kaggle  
+نویسنده: Suraj Verma  
+لایسنس: CC0 (Public Domain)  
+تاریخ دانلود: May 2024  
+
+ساختار داده  
+فایل dairy_dataset.csv شامل ستون‌های زیر است:  
+نام ستون (انگلیسی)توضیحات (فارسی)Locationموقعیت مزرعهTotal Land Area (acres)مساحت کل زمین به ایکرNumber of Cowsتعداد گاوهاFarm Sizeاندازه مزرعهDateتاریخProduct IDشناسه محصولProduct Nameنام محصولBrandنام برندQuantity (liters/kg)مقدار بر حسب لیتر/کیلوگرمPrice per Unitقیمت هر واحدTotal Valueارزش کلShelf Life (days)مدت ماندگاریStorage Conditionشرایط نگهداریProduction Dateتاریخ تولیدExpiration Dateتاریخ انقضاQuantity Sold (liters/kg)مقدار فروشPrice per Unit (sold)قیمت فروش هر واحدApprox. Total Revenue(INR)تقریب درآمد کلCustomer Locationموقعیت مشتریSales Channelکانال فروشQuantity in StockموجودیMinimum Stock Thresholdحداقل موجودی مجازReorder Quantityمقدار سفارش مجدد
