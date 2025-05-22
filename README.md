@@ -18,9 +18,10 @@
 تحلیل رفتار مشتریان  
 گزارش‌گیری خودکار در اکسل  
 
-🚀 نصب و راه‌اندازی  
-bash# کلون کردن مخزن  
-git clone https://github.com/[username]/dairy-market-analysis  
+🚀 نصب و راه‌اندازی    
+
+bash# کلون کردن مخزن    
+git clone https://github.com/[username]/dairy-market-analysis    
 cd dairy-market-analysis  
 
 # ایجاد محیط مجازی  
