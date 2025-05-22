@@ -40,6 +40,8 @@ analyzer = AdvancedDairyAnalyzer('data/raw/dairy_dataset.csv')
 # تولید گزارش
 analyzer.generate_excel_report('reports/excel/analysis_report.xlsx')
 📁 ساختار پروژه
+
+
 dairy-market-analysis/
 ├── data/                      # پوشه داده‌ها
 │   ├── raw/                   # داده‌های خام
